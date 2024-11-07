@@ -1,5 +1,5 @@
 {
-  "name": "producer",
+  "name": "consumidor-projeto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.10.4"
+    "amqplib": "^0.10.4",
+    "mongoose": "^8.8.0"
   }
 }
